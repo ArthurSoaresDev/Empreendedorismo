@@ -1,5 +1,5 @@
 Integrantes:
-Arthur Gabriel Soares - 2225106685
+Arthur Gabriel Soares - 2225106685 <br>
 Lucas Ribeiro de Oliveira - 2225101240
 André Luiz Araújo Britto - 2225102281
 Felipe de Freitas Miranda - 2225104181
